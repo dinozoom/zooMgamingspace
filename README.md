@@ -7,7 +7,7 @@
   <body>
     <nav>
       <ul>
-        <li><a href="about-me.md">About Me</a></li>
+        <li><a href="aboutme.md">About Me</a></li>
         <li><a href="photoalbum.md">Photo Album</a></li>
         <li><a href="music.md">Music Recommendations</a></li>
         <li><a href="contact.md">Contact Me</a></li>
