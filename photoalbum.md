@@ -9,8 +9,8 @@
       <nav>
         <ul>
           <li><a href="index.html">Home</a></li>
-          <li><a href="aboutme.html">About Me</a></li>
-          <li><a href="photoalbum.html">Photo Album</a></li>
+          <li><a href="aboutme.md">About Me</a></li>
+          <li><a href="photoalbum.md">Photo Album</a></li>
         </ul>
       </nav>
     </header>
