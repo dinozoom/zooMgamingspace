@@ -28,3 +28,8 @@
     </footer>
   </body>
 </html>
+# Easter Egg
+
+Here is a random image from the internet:
+
+![Alt Text](https://loremflickr.com/cache/resized/65535_52665473582_3f402f4ca5_320_240_nofilter.jpg)
