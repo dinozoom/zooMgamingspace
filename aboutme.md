@@ -10,6 +10,7 @@
         <ul>
           <li><a href="README.md">Home</a></li>
           <li><a href="photoalbum.md">Photo Album</a></li>
+          <li><a href="music.md">Music Recommendations</a></li>
         </ul>
       </nav>
     </header>
