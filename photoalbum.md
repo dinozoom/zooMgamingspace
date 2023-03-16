@@ -19,7 +19,7 @@
       <h1>My Photo Album</h1>
       <p>Here are some photos that I've taken:</p>
       <div class="gallery">
-        <a href="photos/photo1.jpg"><img src="https://imgur.com/a/jwxTpxD"></a>
+      <img src="https://i.imgur.com/GS46tS5.png" alt="My Artwork">
       </div>
     </main>
     <footer>
