@@ -1,4 +1,4 @@
-<!DOCTYPE md>
+<!DOCTYPE html>
 <html>
 <body>
 	<h1>Music Recommendations</h1>
