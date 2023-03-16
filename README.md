@@ -48,3 +48,39 @@
     </main>
   </body>
 </html>
+nav {
+  background-color: #333;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+nav ul {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  margin-right: 10px;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+header {
+  background-color: #ddd;
+  padding: 50px;
+}
+
+h1 {
+  margin: 0;
+}
+
+main {
+  padding: 50px;
+}
