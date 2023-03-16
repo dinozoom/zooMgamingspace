@@ -7,7 +7,7 @@
         <li><a href="joke.md">Joke of the Day</a></li>
       </ul>
     </nav>
-# Music Recommendations
+<h1>Music Recommendations</h1>
 
 Here are some of my favorite rock bands:
 
