@@ -29,7 +29,7 @@
     </footer>
   </body>
 </html>
-# Easter Egg
+<h1>Easter Egg</h1>
 
 Here is a random image from the internet:
 
