@@ -18,7 +18,7 @@
       <h1>A Hub for Creativity</h1>
     </header>
     <main>
-      <p>Welcome to my personal website hosted on GitHub! My name is Dino and I am excited to share my space to promote good competition. Please use the navigation above to explore my website.</p>
+      <p>Welcome to my personal website hosted on GitHub! My name is Dino and I am excited to share my space to promote good competition. Please use the navigation links above to explore my website.</p>
     </main>
   </body>
 </html>
