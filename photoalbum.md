@@ -2,7 +2,6 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>My Photo Album</title>
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
