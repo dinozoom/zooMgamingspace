@@ -8,7 +8,7 @@
     <nav>
       <ul>
         <li><a href="about-me.html">About Me</a></li>
-        <li><a href="photoalbum.html">My Education</a></li
+        <li><a href="photoalbum.html">Photo Album</a></li>
         <li><a href="contact.html">Contact Me</a></li>
       </ul>
     </nav>
