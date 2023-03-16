@@ -2,7 +2,6 @@
 <!DOCTYPE html>
 <html>
   <head>
-    My Personal Website
     <link rel="stylesheet" type="text/css" href="style.css">
   </head>
   <body>
