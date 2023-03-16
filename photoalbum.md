@@ -8,7 +8,7 @@
     <header>
       <nav>
         <ul>
-          <li><a href="index.html">Home</a></li>
+          <li><a href="README.md">Home</a></li>
           <li><a href="aboutme.md">About Me</a></li>
           <li><a href="photoalbum.md">Photo Album</a></li>
         </ul>
