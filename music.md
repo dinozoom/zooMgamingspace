@@ -1,7 +1,7 @@
 # zooM's Gaming Space
 <nav>
       <ul>
-        <li><a href="about-me.md">About Me</a></li>
+        <li><a href="aboutme.md">About Me</a></li>
         <li><a href="photoalbum.md">Photo Album</a></li>
       </ul>
     </nav>
