@@ -11,7 +11,6 @@
         <ul>
           <li><a href="README.md">Home</a></li>
           <li><a href="aboutme.md">About Me</a></li>
-          <li><a href="photoalbum.md">Photo Album</a></li>
         </ul>
       </nav>
     </header>
@@ -19,7 +18,7 @@
       <h1>My Photo Album</h1>
       <p>Here are some photos that I've taken:</p>
       <div class="gallery">
-      <a href="zooM"><img src="photos/photo1.jpg"></a>
+      <a href="zooM"><img src="bvtkx1w - Imgur.jpg"></a>
       </div>
     </main>
     <footer>
