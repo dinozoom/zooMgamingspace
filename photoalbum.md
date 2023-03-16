@@ -18,7 +18,7 @@
       <h1>My Photo Album</h1>
       <p>Here are some photos that I've taken:</p>
       <div class="gallery">
-        <a href="photos/photo1.jpg"><img src="[Color logo with background.jpg](https://imgur.com/a/jwxTpxD)"></a>
+        <a href="photos/photo1.jpg"><img src="https://imgur.com/a/jwxTpxD"></a>
         <a href="photos/photo2.jpg"><img src="photos/photo2.jpg"></a>
         <a href="photos/photo3.jpg"><img src="photos/photo3.jpg"></a>
         <a href="photos/photo4.jpg"><img src="photos/photo4.jpg"></a>
