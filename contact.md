@@ -4,6 +4,13 @@
     <meta charset="UTF-8">
   </head>
   <body>
+     <nav>
+      <ul>
+        <li><a href="about-me.md">About Me</a></li>
+        <li><a href="photoalbum.md">Photo Album</a></li>
+        <li><a href="contact.md">Contact Me</a></li>
+      </ul>
+    </nav>
     <h1>Contact Me</h1>
     <h2>Email</h2>
     <p>You can reach me at my email address: <a href="mailto:dinokresic0@gmail.com">dinokresic0@gmail.com</a>.</p>
