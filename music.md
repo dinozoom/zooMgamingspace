@@ -1,8 +1,5 @@
 <!DOCTYPE md>
 <html>
-<head>
-	<title>Music Recommendations</title>
-</head>
 <body>
 	<h1>Music Recommendations</h1>
 
